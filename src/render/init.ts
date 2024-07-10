@@ -5,7 +5,7 @@ import Stats from 'three/examples/jsm/libs/stats.module.js'
 import { EffectComposer } from 'three/examples/jsm/postprocessing/EffectComposer.js'
 import { Pass } from 'three/examples/jsm/postprocessing/Pass.js'
 import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js'
-import TickManager from './tick-manager.js'
+import TickManager from './tick-manager'
 
 export interface TickData {
   timestamp: number;
