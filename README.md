@@ -6,6 +6,10 @@ Inspired from: [shaders-crash-course](https://github.com/visionary-3d/shaders-cr
 
 ![demo](.github/assets/og.png)
 
+branch `main`: [live link](https://threejs-shaders-template.vercel.app)
+
+branch `organic`: [live link](https://shader-animation.vercel.app)
+
 ## Tech Stack
 
 - Three.js
